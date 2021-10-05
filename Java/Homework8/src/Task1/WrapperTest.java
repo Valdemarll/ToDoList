@@ -12,5 +12,6 @@ public class WrapperTest {
         assertEquals("Hi", wrapper.getValue());
         wrapper.setValue("Bey");
         assertEquals("Bey", wrapper.getValue());
+
     }
 }
